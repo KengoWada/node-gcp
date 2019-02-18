@@ -1,0 +1,27 @@
+{
+  "name": "node_gcp",
+  "version": "1.0.0",
+  "description": "Deploy to google app engine",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KengoWada/node-gcp.git"
+  },
+  "keywords": [
+    "node",
+    "gcp"
+  ],
+  "author": "Kengo Wada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KengoWada/node-gcp/issues"
+  },
+  "homepage": "https://github.com/KengoWada/node-gcp#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
